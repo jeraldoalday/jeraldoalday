@@ -47,6 +47,7 @@ These repos are private, so they aren't linked. I'm happy to walk through any of
 - **linkstash**: A bookmark manager with tags and search. React + TypeScript.
 - **loan-app**: A loan origination and servicing platform covering applications, underwriting, funding, payments, autopay, statements, and collections. Next.js.
 - **local-vault**: An on-device encrypted password and document vault for iOS and macOS, with no server, account, or sync. Swift.
+- **mac-sweep**: A planned command-line cleanup tool for macOS that previews what it would remove before removing anything. No code yet.
 - **markdrop**: A markdown notes app with live preview and a dependency-free markdown converter. React + TypeScript.
 - **online-shop**: A full-stack e-commerce platform with catalog, cart, checkout, orders, reviews, and an admin panel. TypeScript.
 - **order-mgt**: An order management backend covering catalog, inventory, customers, payments, and fulfillment. FastAPI + PostgreSQL.
