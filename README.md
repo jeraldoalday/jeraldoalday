@@ -33,6 +33,34 @@ Most of my professional work lives in private company repos, so it won't show up
 - **[saas-starter-kit](https://github.com/jeraldoalday/saas-starter-kit)**: A FastAPI + React boilerplate for a subscription SaaS, with auth, a billing hook, tests, and CI.
 - **[stockroom](https://github.com/jeraldoalday/stockroom)**: Inventory management for small businesses, with multi-location stock, purchase and sales orders, and low-stock alerts. Node.js + Prisma.
 
+#### Private projects
+
+These repos are private, so they aren't linked. I'm happy to walk through any of them.
+
+- **api-sentinel**: An API/uptime monitoring SaaS with health checks, p50/p95/p99 latency tracking, SSL expiry alerts, maintenance windows, and public status pages. Go.
+- **dev-pulse**: Developer productivity analytics that turns a team's GitHub pull requests, reviews, and CI runs into cycle time, review turnaround, and build health metrics.
+- **focusflow**: A minimal Pomodoro timer with a built-in task list. React + TypeScript.
+- **habitloop**: A daily habit tracker with streaks. React + TypeScript.
+- **invoice-flow**: Billing and expense tracking for freelancers. Go API + React client.
+- **job-pilot**: A job application manager with a CLI, an HTTP API, and a library, for tracking applications, contacts, interviews, and follow-ups. Zero runtime dependencies.
+- **kanbanly**: A minimal Kanban board with drag-and-drop and keyboard-accessible card moves. React + TypeScript.
+- **linkstash**: A bookmark manager with tags and search. React + TypeScript.
+- **loan-app**: A loan origination and servicing platform covering applications, underwriting, funding, payments, autopay, statements, and collections. Next.js.
+- **local-vault**: An on-device encrypted password and document vault for iOS and macOS, with no server, account, or sync. Swift.
+- **markdrop**: A markdown notes app with live preview and a dependency-free markdown converter. React + TypeScript.
+- **online-shop**: A full-stack e-commerce platform with catalog, cart, checkout, orders, reviews, and an admin panel. TypeScript.
+- **order-mgt**: An order management backend covering catalog, inventory, customers, payments, and fulfillment. FastAPI + PostgreSQL.
+- **paletteforge**: A color palette generator for complementary, analogous, triadic, and other palettes, with click-to-copy hex codes. React + TypeScript.
+- **pennywise**: An expense tracker with categories and per-category totals. React + TypeScript.
+- **pixelpad**: A pixel-art drawing grid with fill, eyedropper, undo/redo, and SVG export. React + TypeScript.
+- **quickconvert**: A unit converter for length, weight, and temperature. React + TypeScript.
+- **recipebox**: A recipe manager that scales ingredient quantities to any serving size. React + TypeScript.
+- **tallyup**: A client-side poll and voting app with live counts. React + TypeScript.
+- **tidetrack**: A daily water-intake tracker with a rising-tide progress meter. React + TypeScript.
+- **typetest**: A typing speed test with live WPM and accuracy. React + TypeScript.
+- **warehouseos**: An inventory and order-management platform with products, warehouses, stock movements, reservations, and sales orders. TypeScript REST API.
+- **webhook-forge**: A webhook testing and reliability platform with capture bins, signature checks, replay, and signed outbound delivery with retries. Go.
+
 ### Reach me
 
 - LinkedIn: [linkedin.com/in/jerald-alday-064abb7b](https://www.linkedin.com/in/jerald-alday-064abb7b)
