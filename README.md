@@ -19,5 +19,5 @@ Most of my professional work lives in private company repos, so it won't show up
 
 ### Reach me
 
-- LinkedIn: [your link here](www.linkedin.com/in/jerald-alday-064abb7b)
+- LinkedIn: [your link here](https://www.linkedin.com/in/jerald-alday-064abb7b)
 - Email: jeraldoalday@gmail.com
